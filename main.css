@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+#unch{
+  text-align: center;
+  width: 294px;
+  background-color: #EDA;
+  border: 3px double #990;
+}
+
+#unch > h1 {
+  color: #630;
+}
+
+#unch > #output > h2 {
+  font-size: 70px;
+  font-family: serif;
+  margin: 0;
+  text-align: 0 -1px 0 #222;
+
+}
+
+#unch > #output > p{
+  font-size: 15px;
+  font-family: serif;
+  margin: 0;
+}
+
+#unch > #output{
+  background-color: #c00;
+  color: #FFF;
+  margin: 10px auto;
+  padding: 5px;
+}
+
+#unch > #btn {
+  background: #740;
+  border: 0;
+  color: #FFF;
+  cursor: pointer;
+  font-size: 20px;
+  font-family: serif;
+  margin: 10px auto 20px auto;
+  padding: 5px 20px;
+}
+
+#unch > #btn:hover{
+  background: #960;
+}
+
+#unch > #btn:active{
+  background: #630
+}
